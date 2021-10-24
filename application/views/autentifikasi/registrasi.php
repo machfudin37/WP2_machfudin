@@ -1,7 +1,6 @@
-  <div class="container">
+<div class="container">
 
       <div class="card o-hidden border-0 shadow-lg my-5 col-lg-7 mx-auto">
-
           <div class="card-body p-0">
               <!-- Nested Row within Card Body -->
               <div class="row">
@@ -35,9 +34,6 @@
                           </form>
                           <hr>
                           <div class="text-center">
-                              <a class="small" href="<?= base_url('autentifikasi/lupaPassword'); ?>">Lupa Password?</a>
-                          </div>
-                          <div class="text-center">
                               Sudah Menjadi Member?<a class="small" href="<?= base_url('autentifikasi'); ?>"> Login!</a>
                           </div>
                       </div>
@@ -46,4 +42,4 @@
           </div>
       </div>
 
-  </div>
+  </div
