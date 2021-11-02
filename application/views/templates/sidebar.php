@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- Sidebar -->
 <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
@@ -106,4 +105,3 @@
 
 </ul>
 <!-- End of Sidebar --   >
->>>>>>> 40537636480a23d4b9d4fe85ff6b9538b13e54bd
