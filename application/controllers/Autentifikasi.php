@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 
 class Autentifikasi extends CI_Controller
@@ -270,4 +269,3 @@ class Autentifikasi extends CI_Controller
     }
 
 }
->>>>>>> 40537636480a23d4b9d4fe85ff6b9538b13e54bd
